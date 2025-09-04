@@ -1,13 +1,15 @@
 # Hi 👋, I'm Nabeel Qadri  
-**Full Stack Developer | Laravel, Vue.js, React.js, Stripe, AI Chatbots, Bash Scripting**
+**AI Chatbot & Full Stack Developer | Laravel, React, Vue, Stripe, Bash Scripting**
 
 🚀 Passionate about building **modern web apps, payment solutions, and AI-powered tools**.  
 💡 I enjoy solving complex problems and creating secure, scalable applications.  
 
+<a href="https://www.upwork.com/freelancers/~01315c3a41f60b61e7"><img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork"/></a>
+
 ---
 
 ## 🛠️ Skills & Expertise  
-- **Backend:** Laravel, REST APIs, PHP  
+- **Backend:** Python, Laravel, REST APIs, PHP  
 - **Frontend:** React.js, Vue.js, AngularJS, Material Design  
 - **Payments:** Stripe Integration, Subscription Billing, Webhooks  
 - **AI Chatbots:** Conversational AI, Automation Workflows  
@@ -18,7 +20,7 @@
 
 ## 📌 Featured Projects  
 🔗 [Enterprise Web App with Laravel & Vue](#)  
-🔗 [AI Chatbot for Customer Support](#)  
+🔗 [AI Chatbot for Customer Support](https://github.com/nzqadri/aichatbot)  
 🔗 [Stripe Payment Integration System](#)  
 🔗 [Bash Scripts for Automated Deployment](#)  
 
@@ -33,21 +35,23 @@
 ---
 
 ## 📊 GitHub Stats  
-![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzqadri&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzqadri&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [Upwork Profile](#)  
-- 📧 Email: nabeel.zafar.qadri@example.com  
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01315c3a41f60b61e7)  
+- 📧 Email: nabeel.zafar.qadri@gmail.com  
 - 🌐 Portfolio: [your-portfolio-link.com](#)  
 - 💻 [LinkedIn](https://linkedin.com/in/nzqadri)  
+- 💬 [WhatsApp](https://wa.me/923337648338)  
 
 ---
 
 ## 🏷️ Tech Stack Badges  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
@@ -58,4 +62,4 @@
 
 ---
 
-⭐️ From [Nabeel Qadri](https://github.com/yourusername)
+⭐️ From [Nabeel Qadri](https://github.com/nzqadri)
