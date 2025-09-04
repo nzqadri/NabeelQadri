@@ -19,6 +19,7 @@
 ---
 
 ## 📌 Featured Projects  
+🔗 [BlockAPT](https://www.blockapt.com/) - A security automation platform using Bash to monitor and block Advanced Persistent Threats (APTs).  
 🔗 [Enterprise Web App with Laravel & Vue](#)  
 🔗 [AI Chatbot for Customer Support](https://github.com/nzqadri/aichatbot)  
 🔗 [Stripe Payment Integration System](#)  
