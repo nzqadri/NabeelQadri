@@ -23,7 +23,7 @@
 🔗 [Enterprise Web App with Laravel & Vue](#)  
 🔗 [AI Chatbot for Customer Support](https://github.com/nzqadri/aichatbot)  
 🔗 [Stripe Payment Integration System](#)  
-🔗 [Bash Scripts for Automated Deployment](#)  
+🔗 [Bash Scripts for Automated Deployment](https://github.com/nzqadri/bash-toolkit)  
 
 ---
 
