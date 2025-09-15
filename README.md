@@ -21,15 +21,15 @@
 ## 📌 Featured Projects  
 🔗 [BlockAPT](https://www.blockapt.com/) - A security automation platform using Bash to monitor and block Advanced Persistent Threats (APTs).  
 🔗 [Enterprise Web App with Laravel & Vue](#)  
-🔗 [AI Chatbot for Customer Support](https://github.com/nzqadri/aichatbot)  
+🔗 [AI Chatbot for Customer Support](https://github.com/nzqadri/aichatbot) - A conversational AI designed to handle customer queries and automate support workflows.  
 🔗 [Stripe Payment Integration System](#)  
-🔗 [Bash Scripts for Automated Deployment](https://github.com/nzqadri/bash-toolkit)  
+🔗 [Bash Scripts for Automated Deployment](https://github.com/nzqadri/bash-toolkit) - A versatile collection of Bash scripts to automate server setup and deployment.
 
 ---
 
 ## 🌟 Why Choose Me?  
 ✔ **Full-stack expertise** (backend, frontend, AI, payments, automation)  
-✔ **3+ years experience** in enterprise-level applications  
+✔ **5+ years experience** in enterprise-level applications  
 ✔ **Security-first approach** (SQL injection prevention, secure APIs)  
 ✔ **Strong communication** & reliable delivery  
 
@@ -43,8 +43,7 @@
 
 ## 📫 Connect With Me  
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01315c3a41f60b61e7)  
-- 📧 Email: nabeel.zafar.qadri@gmail.com  
-- 🌐 Portfolio: [your-portfolio-link.com](#)  
+- 📧 Email: nabeel.zafar.qadri@gmail.com    
 - 💻 [LinkedIn](https://linkedin.com/in/nzqadri)  
 - 💬 [WhatsApp](https://wa.me/923337648338)  
 
